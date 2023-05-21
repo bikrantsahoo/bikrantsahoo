@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **devops tools and projects**
 
-- 📫 How to reach me **ksbikrant@gamil.com**
+- 📫 How to reach me **ksbikrant@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iambikrantsahoo/](https://www.linkedin.com/in/iambikrantsahoo/)
 
