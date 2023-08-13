@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="DevOps GIF">
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" alt="DevOps GIF">
 </div>
 
 <h1 align="center">Hi 👋, I'm Bikrant</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikrantsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="bikrantsahoo" /> </p>
 
