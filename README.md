@@ -1,4 +1,6 @@
-![DevOps GIF](https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="DevOps GIF">
+</div>
 
 <h1 align="center">Hi 👋, I'm Bikrant</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
