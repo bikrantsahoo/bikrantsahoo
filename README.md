@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/C4D12AQHXIaEgL_W4ng/article-inline_image-shrink_1000_1488/0/1609095319385?e=1689811200&v=beta&t=gAzOC9qnKLD9EhCZ1aVY0apsGqI-jARM8HufJ0IQ13c](https://www.istockphoto.com/photo/devops-concept-gm1303169188-394701710))](https://bikrantsahoo.io)
+[![MasterHead]([https://media.licdn.com/dms/image/C4D12AQHXIaEgL_W4ng/article-inline_image-shrink_1000_1488/0/1609095319385?e=1689811200&v=beta&t=gAzOC9qnKLD9EhCZ1aVY0apsGqI-jARM8HufJ0IQ13c](https://www.istockphoto.com/photo/devops-concept-gm1303169188-394701710))]
 <h1 align="center">Hi 👋, I'm Bikrant</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif">
